@@ -20,7 +20,7 @@ package com.SelfLearning;
  
  class F{
 	 public static void main(String[] args) {
-			System.out.println("class  with main method");
+			System.out.println("class F with main method");
 
 		}
  }

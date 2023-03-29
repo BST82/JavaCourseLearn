@@ -73,11 +73,24 @@ public class Operators {
 		 */
 		int q=20;
 		q<<=2;
-		System.out.println(q);
+//		System.out.println(q);
 		
 		int r=30;
 	
-		System.out.println(r>>1);
+//		System.out.println(r>>1);
+		
+		///Assignment operator 
+		//compound statement sum+=19;
+		
+		int sum=10;
+		sum+=20;
+//		System.out.println(sum);
+		
+		//ternary operator 
+		int h=10;
+		int p=20;
+		boolean res=(h>p)?true:false;
+		System.out.println(res);
 		
 		
 		

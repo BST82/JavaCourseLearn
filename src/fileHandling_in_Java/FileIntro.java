@@ -7,7 +7,7 @@ public class FileIntro {
 
 	public static void main(String[] args) {
 		
-		//using relative path
+		//using absolute path
 		File file = new File("C:\\Users\\Ashu\\Desktop\\file\\file1.txt");
 		
 		boolean result;

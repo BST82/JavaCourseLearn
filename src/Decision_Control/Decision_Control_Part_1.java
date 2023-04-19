@@ -94,6 +94,7 @@ public class Decision_Control_Part_1 {
 	Decision_Control_Part_1 obj=new Decision_Control_Part_1();
 	switch(choice) {
 	case 1:obj.switch_One();
+	
 	break;
 	case 2:obj.switch_Two();
 	break;
